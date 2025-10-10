@@ -94,6 +94,11 @@
 
 ---
 
+## 🧭 Contribution Activity
+![DeusN's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=feed7362&theme=tokyo-night&hide_border=false)
+
+---
+
 ## 🌟 Vision
 > “Mastery through iteration — every project, every challenge, every late night brings me closer to the top 1%.”
 
