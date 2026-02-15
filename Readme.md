@@ -2,9 +2,9 @@
   <img src="blue_eye.png" width="100%" style="object-fit:cover; height:200px; border-radius: 10px;" alt="header" />
 </div>
 
-<h1 align="center">
-  <span style="color: #4169E1;">Ｉ　ａｍ　ｗｈｏ　Ｉ　ａｍ</span>
-</h1>
+<div align="center">
+  <img src="blue_eye.png" width="100%" style="border-radius: 10px;" alt="header" />
+</div>
 
 <p align="center">
   <i>"Mastery through iteration — every challenge brings me closer to the top 1%."</i>
