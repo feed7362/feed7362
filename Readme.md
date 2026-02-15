@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="blue_eye.png" width="100%" style="object-fit:cover; height:200px; border-radius: 10px;" alt="header" />
-</div>
-
-<div align="center">
   <img src="blue_eye.png" width="100%" style="border-radius: 10px;" alt="header" />
 </div>
+
+<h1 align="center">
+  <span style="color: #4169E1;">Ｉ　ａｍ　ｗｈｏ　Ｉ　ａｍ</span>
+</h1>
 
 <p align="center">
   <i>"Mastery through iteration — every challenge brings me closer to the top 1%."</i>
